@@ -7,5 +7,5 @@ Gem::Specification.new do |s|
   s.authors     = ["Arvind Vyas"]
   s.email       = 'arvindvyas07@gmail.com'
   s.files       = ["lib/captcha.rb","lib/has_captcha.rb"]
-  s.license       = 'MIT'
+  s.license     = 'MIT'
 end
